@@ -2,7 +2,8 @@
 
 the python file **Quantum Monte Carlo** is Simpler simulations for small datasets, which is meant to give you a taste of what QMC looks like.
 
-the jupyter notebook **QMC with Application in Necoclassical Model** is based on the Woerner and Egger (2019) paper **Woerner, S., Egger, D.J., 2019. Quantum risk analysis. npj Quantum Information 5, 1–8.** It is  realistic simulations for financial modeling and risk analysis. 
+the jupyter notebook **QMC with Application in Necoclassical Model** is based on the Woerner and Egger (2019) paper **Woerner, S., Egger, D.J., 2019. Quantum risk analysis. npj Quantum Information 5, 1–8.
+https://doi.org/10.48550/arXiv.1806.06893** It is  realistic simulations for financial modeling and risk analysis. 
 The target function is defined as:
 
 \[
